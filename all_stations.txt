@@ -1,0 +1,9 @@
+central,TRUE
+valley,TRUE
+bowen_hills,TRUE
+albion,TRUE
+woolloowin,TRUE
+eagle_junction,FALSE
+toombull,TRUE
+nundah,TRUE
+northgate,TRUE
